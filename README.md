@@ -1,5 +1,5 @@
 # fullScreenModal
-#Beautiful jQuery plugin wick allows you to load a fullscreen modal window
+#Beautiful jQuery plugin wich allows you to load a fullscreen modal window
 
 #Example of usage : 
 #1 - load your jquery library first
@@ -7,7 +7,6 @@
 #3 - initialize the function like this : 
 
         var url = 'http://your_ajax_content_url';  
-        /* Fullscreen login form */
         var connectLink = $("#connect").fullScreenModal({ //#connect is the element' ID wich trigger the function
             backgroundImage: "/assets/images/loginPict/6.jpg", //path to my beautiful wallpaper
             offsetMarginTop: 0, // would I an Offset on the top ?
