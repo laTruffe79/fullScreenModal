@@ -6,7 +6,6 @@ Example of usage :
 2 - load this jquery.fullScreenModal.js
 3 - initialize the function like this : 
 
- var controller = 'c_loginform/';
         var url = 'http://your_ajax_content_url';  
         /* Fullscreen login form */
         var connectLink = $("#connect").fullScreenModal({ //#connect is the element' ID wich trigger the function
