@@ -1,5 +1,5 @@
 # fullScreenModal
-Beatiful jQuery plugin wick allows you to load a fullscreen modal window
+Beautiful jQuery plugin wick allows you to load a fullscreen modal window
 
 Example of usage : 
 1 - load your jquery library first
